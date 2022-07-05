@@ -1,5 +1,13 @@
 # @finos/legend-graph
 
+## 9.1.0
+
+### Minor Changes
+
+- [#1195](https://github.com/finos/legend-studio/pull/1195) [`b429420`](https://github.com/finos/legend-studio/commit/b429420ec1fd56186233505657c40a046428cf2b) ([@MauricioUyaguari](https://github.com/MauricioUyaguari)) - Support `RelationalCSVData` models and serialization format for `ServiceTest`.
+
+* [#1259](https://github.com/finos/legend-studio/pull/1259) [`91afdec3`](https://github.com/finos/legend-studio/commit/91afdec3def61aeafa05783b8eb5d220503f98ec) ([@rafaelbey](https://github.com/rafaelbey)) - Expose builder utility function `V1_findSchema()` to find a schema on a given database (including `included` databases).
+
 ## 9.0.1
 
 ## 9.0.0
